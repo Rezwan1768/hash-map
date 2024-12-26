@@ -161,6 +161,7 @@ test.set('jacket', 'blue')
 test.set('kite', 'pink')
 test.set('lion', 'golden')
 test.set('hat', 'red')
+
 console.log(`length: ${test.length()}`);
 console.log(`Value of "frog" ${test.get("frog")}`);
 console.log(`Value of "fish" ${test.get("fish")}`);
